@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435068061760",
+    "project_id": "medirush-de365",
+    "storage_bucket": "medirush-de365.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435068061760:android:30b97aaf5f29d5bb5b37a5",
+        "android_client_info": {
+          "package_name": "com.example.emergencyambulanceservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNA5dSKY9sKDcoCYO__SFfM810lfE-fIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

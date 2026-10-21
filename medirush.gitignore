@@ -1,0 +1,25 @@
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# Generated files
+captures/
+.externalNativeBuild/
+
+# Firebase configuration
+google-services.json
+
+# Sensitive keys and credentials
+*.jks
+*.keystore
+secrets.properties
+.env
